@@ -2,12 +2,24 @@ body{
   background-color: #fff;
 }
 .App{
-  background-color:#fff;
+  background-color:#e5e1f6;
+  border-radius: 10px;
   min-height:500px;
   width: 400px;
   margin: 40px auto;
 }
-
+#listheader{
+  background-color:#e5e1f6;
+  border: 0; 
+  color: #8063fa;
+  text-align: center;
+  width: 340px;
+  height: 50px;
+  margin: 20px;
+  padding-top: 20px;
+  font-size: 18px;
+  border-radius: 10px;
+}
 #to-do-form input{
   background-color:#d4caff;
   border: 0; 
